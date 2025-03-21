@@ -60,6 +60,6 @@ application {
 // Add Gretty configuration for Tomcat
 gretty {
     servletContainer = 'tomcat10'
-    contextPath = '/'
+    contextPath = '/stringservice/'
     httpPort = 8080
 }
